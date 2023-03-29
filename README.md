@@ -2,7 +2,7 @@
 
 **Hi, my name is Paisley, and I live in Wymondham, Norfolk. I currently work at a Signmaker's, and am doing a Full Stack Coding Bootcamp in the evenings. I enjoy cycling 🚲, reading 📖, and walking my dog 🐕.**
 
-## Technologies
+## Learning:
 
 - HTML
 - CSS
